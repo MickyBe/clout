@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413513547354",
+    "project_id": "clout-85361",
+    "storage_bucket": "clout-85361.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413513547354:android:bcf499752489d3efc3e263",
+        "android_client_info": {
+          "package_name": "com.kliqsocial.kliq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413513547354-hv088mgs993ri8nlqgninrkqmednacpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPN-tsXi_1gTWFyxg-kuFaMzIhxBeLk1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413513547354-hv088mgs993ri8nlqgninrkqmednacpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

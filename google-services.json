@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1018329247380",
+    "project_id": "kliq-3b5af",
+    "storage_bucket": "kliq-3b5af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018329247380:android:14c14c12803432d257ce81",
+        "android_client_info": {
+          "package_name": "com.kliqsocial.kliq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018329247380-luck83nh92ndesvl9divl2u3t78d5iq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kliqsocial.kliq",
+            "certificate_hash": "d9bc299db9270cd5906fa9e2fd90885cfe2c36a7"
+          }
+        },
+        {
+          "client_id": "1018329247380-cfsso195p7u7sm104ot2c73odos31tdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU6n6ZecJmQ-nzyPU_gUXjb7qyapAu3f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018329247380-cfsso195p7u7sm104ot2c73odos31tdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

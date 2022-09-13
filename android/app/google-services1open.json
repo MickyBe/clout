@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "1018329247380",
+    "firebase_url": "https://kliq-3b5af-default-rtdb.firebaseio.com",
+    "project_id": "kliq-3b5af",
+    "storage_bucket": "kliq-3b5af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018329247380:android:14c14c12803432d257ce81",
+        "android_client_info": {
+          "package_name": "com.kliqsocial.kliq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018329247380-9jo4qoin607nsed4he3u87cf6n9d6qcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kliqsocial.kliq",
+            "certificate_hash": "1280fda5dfd191cefe2c98968d3d9048823c8022"
+          }
+        },
+        {
+          "client_id": "1018329247380-ic8hfg13k2e9anl7s85m2igf2vpl0s69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kliqsocial.kliq",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1018329247380-kkot1p1prua830tuufh804cfa5qevgij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kliqsocial.kliq",
+            "certificate_hash": "4a4c554471dcdc7a4ba5e6941a4231c88ef0ee23"
+          }
+        },
+        {
+          "client_id": "1018329247380-nijd0gir0d8qphatge5trmeca847mgge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kliqsocial.kliq",
+            "certificate_hash": "02399bd5a69174f054816b121b7fe819ee118a1a"
+          }
+        },
+        {
+          "client_id": "1018329247380-cfsso195p7u7sm104ot2c73odos31tdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU6n6ZecJmQ-nzyPU_gUXjb7qyapAu3f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018329247380-cfsso195p7u7sm104ot2c73odos31tdp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018329247380-1ikn2kng2l2ahq4k0f8te6lqt05jji90.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kliqsocial.kliq"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

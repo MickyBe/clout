@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1018329247380-1ikn2kng2l2ahq4k0f8te6lqt05jji90.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1018329247380-1ikn2kng2l2ahq4k0f8te6lqt05jji90</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1018329247380-luck83nh92ndesvl9divl2u3t78d5iq4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCSM1mT1PUGGogIXQ47slCZNit_Xm2kJlU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1018329247380</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kliqsocial.kliq</string>
+	<key>PROJECT_ID</key>
+	<string>kliq-3b5af</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kliq-3b5af.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1018329247380:ios:4b8806456e3036e457ce81</string>
+</dict>
+</plist>
